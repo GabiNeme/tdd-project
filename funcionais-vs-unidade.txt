@@ -1,0 +1,7 @@
+-> Testes de unidades checam uma classe ou método de forma isolada, 
+enquanto Teste de funcionalidade verifica um serviço completo, podendo
+incluir diversas classes e métodos.
+
+-> Testes de integração podem envolver dependências e sistemas reais
+(nesse caso o navegador, por exemplo), enquanto o Teste de Unidade não
+tem dependências externas.
