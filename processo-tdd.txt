@@ -1,0 +1,9 @@
+O primeiro passo é escrever um teste funcional que, por não ter nenhum
+código implementado não passará. Em seguida, deve-se escrever um teste
+de unidade para o código que será implementado, veriticar se o teste de 
+unidade passa, e se não passar implementar um código mínimo que faça o 
+teste de unidades passar. Em seguida, quando ele passar, refatorar o 
+código, se necessário, e então retomar ao teste funcional. Se ele con-
+tinuar não passando, repetir o processo. Se o teste funcionar passar,
+verificar se é necessária refatoração, para o qual devem ser escritos
+testes de unidade, etc.
